@@ -1,0 +1,145 @@
+nohup: 忽略输入
+正在使用 'Processes' 配置文件启动并行池(parpool)...
+已连接到具有 8 个工作进程的并行池。
+算子贡献实验启动：mode=paper_core, scenarios=2, groups=5, datasets=12, reps=5
+并行已开启：workers=8
+
+[1/2] 场景：real_single
+  [1/5] 实验组：static_baseline
+    C101_25.txt     best=191.81 avg=191.81
+    C201_25.txt     best=268.53 avg=270.75
+    R102_25.txt     best=578.63 avg=597.40
+    R202_25.txt     best=431.48 avg=459.34
+    C102_50.txt     best=362.17 avg=394.92
+    C202_50.txt     best=488.79 avg=539.52
+    R101_50.txt     best=1079.28 avg=1152.50
+    R201_50.txt     best=828.36 avg=866.00
+    C101_100.txt    best=828.94 avg=849.22
+    C201_100.txt    best=964.73 avg=1007.25
+    R102_100.txt    best=1543.69 avg=1613.03
+    R202_100.txt    best=1163.53 avg=1260.86
+  [2/5] 实验组：dynamic_only
+    C101_25.txt     best=1809.08 avg=1809.08
+    C201_25.txt     best=1914.29 avg=1929.91
+    R102_25.txt     best=4362.25 avg=4383.02
+    R202_25.txt     best=2615.62 avg=2662.90
+    C102_50.txt     best=3067.70 avg=3069.20
+    C202_50.txt     best=3277.22 avg=3515.85
+    R101_50.txt     best=7643.62 avg=7795.73
+    R201_50.txt     best=4130.61 avg=4612.21
+    C101_100.txt    best=6262.05 avg=6270.09
+    C201_100.txt    best=7243.67 avg=9422.08
+    R102_100.txt    best=11444.19 avg=11699.40
+    R202_100.txt    best=6141.09 avg=6374.79
+  [3/5] 实验组：dynamic_plus_repair
+    C101_25.txt     best=1809.08 avg=1809.08
+    C201_25.txt     best=1914.29 avg=1927.74
+    R102_25.txt     best=4367.05 avg=4385.60
+    R202_25.txt     best=2077.04 avg=2443.83
+    C102_50.txt     best=3067.70 avg=3071.11
+    C202_50.txt     best=3284.81 avg=3402.13
+    R101_50.txt     best=7643.18 avg=7675.86
+    R201_50.txt     best=4161.76 avg=4512.63
+    C101_100.txt    best=6262.05 avg=6262.05
+    C201_100.txt    best=6565.23 avg=6836.12
+    R102_100.txt    best=11421.81 avg=11824.23
+    R202_100.txt    best=6097.72 avg=6597.23
+  [4/5] 实验组：dynamic_full_baseline
+    C101_25.txt     best=1809.08 avg=1809.08
+    C201_25.txt     best=1925.61 avg=1928.52
+    R102_25.txt     best=4379.52 avg=4409.66
+    R202_25.txt     best=2125.70 avg=2582.15
+    C102_50.txt     best=3067.70 avg=3077.81
+    C202_50.txt     best=3284.88 avg=3427.91
+    R101_50.txt     best=7652.31 avg=7782.57
+    R201_50.txt     best=4128.37 avg=4292.51
+    C101_100.txt    best=6262.05 avg=6262.05
+    C201_100.txt    best=6599.09 avg=7076.48
+    R102_100.txt    best=11401.39 avg=12007.17
+    R202_100.txt    best=5590.96 avg=6048.77
+  [5/5] 实验组：no_adaptive
+    C101_25.txt     best=1809.08 avg=1809.08
+    C201_25.txt     best=1922.57 avg=1930.18
+    R102_25.txt     best=4389.20 avg=4406.54
+    R202_25.txt     best=2077.04 avg=2411.76
+    C102_50.txt     best=3067.70 avg=3090.23
+    C202_50.txt     best=3278.54 avg=3286.16
+    R101_50.txt     best=7644.15 avg=7680.71
+    R201_50.txt     best=4131.68 avg=4281.36
+    C101_100.txt    best=6262.05 avg=6262.05
+    C201_100.txt    best=6542.37 avg=6722.34
+    R102_100.txt    best=11418.11 avg=11782.99
+    R202_100.txt    best=5584.74 avg=5933.53
+
+[2/2] 场景：real_multi
+  [1/5] 实验组：static_baseline
+    C101_25.txt     best=191.81 avg=191.81
+    C201_25.txt     best=268.53 avg=268.53
+    R102_25.txt     best=466.12 avg=495.67
+    R202_25.txt     best=402.88 avg=432.71
+    C102_50.txt     best=319.65 avg=326.23
+    C202_50.txt     best=494.79 avg=512.54
+    R101_50.txt     best=892.47 avg=955.47
+    R201_50.txt     best=738.72 avg=768.49
+    C101_100.txt    best=724.94 avg=729.24
+    C201_100.txt    best=900.91 avg=962.52
+    R102_100.txt    best=1399.35 avg=1497.55
+    R202_100.txt    best=1078.44 avg=1100.58
+  [2/5] 实验组：dynamic_only
+    C101_25.txt     best=1809.08 avg=1815.12
+    C201_25.txt     best=1914.29 avg=1931.39
+    R102_25.txt     best=4266.05 avg=4309.45
+    R202_25.txt     best=2078.82 avg=2406.10
+    C102_50.txt     best=3039.58 avg=3053.95
+    C202_50.txt     best=3239.83 avg=3499.75
+    R101_50.txt     best=7544.95 avg=7729.04
+    R201_50.txt     best=4041.84 avg=4125.24
+    C101_100.txt    best=6133.22 avg=6406.49
+    C201_100.txt    best=6402.73 avg=6673.93
+    R102_100.txt    best=11215.89 avg=11472.85
+    R202_100.txt    best=5518.20 avg=5785.99
+  [3/5] 实验组：dynamic_plus_repair
+    C101_25.txt     best=1809.08 avg=1809.08
+    C201_25.txt     best=1920.73 avg=1933.23
+    R102_25.txt     best=4255.30 avg=4282.93
+    R202_25.txt     best=2071.45 avg=2180.71
+    C102_50.txt     best=3015.77 avg=3017.35
+    C202_50.txt     best=3217.39 avg=3236.81
+    R101_50.txt     best=7472.58 avg=7706.37
+    R201_50.txt     best=4039.58 avg=4066.98
+    C101_100.txt    best=6131.06 avg=6299.94
+    C201_100.txt    best=6381.36 avg=6662.34
+    R102_100.txt    best=11145.39 avg=11623.26
+    R202_100.txt    best=5475.19 avg=5723.72
+  [4/5] 实验组：dynamic_full_baseline
+    C101_25.txt     best=1809.08 avg=1815.12
+    C201_25.txt     best=1914.29 avg=1931.06
+    R102_25.txt     best=4264.96 avg=4279.35
+    R202_25.txt     best=2057.17 avg=2087.71
+    C102_50.txt     best=3022.05 avg=3030.48
+    C202_50.txt     best=3254.03 avg=3368.11
+    R101_50.txt     best=7468.29 avg=7640.81
+    R201_50.txt     best=4045.02 avg=4105.07
+    C101_100.txt    best=6131.06 avg=6131.06
+    C201_100.txt    best=6444.60 avg=6689.67
+    R102_100.txt    best=11209.15 avg=11425.70
+    R202_100.txt    best=5456.25 avg=5828.41
+  [5/5] 实验组：no_adaptive
+    C101_25.txt     best=1809.08 avg=1809.08
+    C201_25.txt     best=1921.84 avg=1929.55
+    R102_25.txt     best=4265.42 avg=4273.85
+    R202_25.txt     best=2054.81 avg=2058.76
+    C102_50.txt     best=3014.31 avg=3018.99
+    C202_50.txt     best=3245.33 avg=3360.71
+    R101_50.txt     best=7457.77 avg=7608.55
+    R201_50.txt     best=4030.64 avg=4059.96
+    C101_100.txt    best=6131.06 avg=6139.53
+    C201_100.txt    best=6414.26 avg=6535.30
+    R102_100.txt    best=11163.64 avg=11428.20
+    R202_100.txt    best=5455.36 avg=5713.52
+
+算子贡献实验完成。
+原始结果：/home/kjk/myproject/uav-alns/uav-alns-data/operator_contribution_v1/raw/operator_contribution_paper_core.mat
+汇总表：/home/kjk/myproject/uav-alns/uav-alns-data/operator_contribution_v1/summary/overall_metrics_paper_core.csv
+算子使用统计：/home/kjk/myproject/uav-alns/uav-alns-data/operator_contribution_v1/summary/operator_usage_statistics_paper_core.csv
+使用 'Processes' 配置文件的并行池正在关闭。

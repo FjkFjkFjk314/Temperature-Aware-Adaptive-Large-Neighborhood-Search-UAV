@@ -1,0 +1,2306 @@
+[
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C101_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C101_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C101_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C201_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C201_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C201_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R102_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R102_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R102_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R202_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R202_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R202_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C102_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C102_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C102_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C202_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C202_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C202_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R101_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R101_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R101_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R201_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R201_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R201_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C101_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 2
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C101_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C101_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C201_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 2
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C201_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C201_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R102_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R102_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R102_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R202_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R202_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R202_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C101_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C101_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C101_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C201_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C201_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C201_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R102_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R102_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R102_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R202_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R202_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R202_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C102_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C102_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C102_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C202_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C202_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C202_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R101_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R101_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R101_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R201_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R201_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R201_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C101_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C101_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C101_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C201_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C201_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C201_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R102_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R102_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R102_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R202_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-15.0°C),η=0.47",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R202_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-8.3°C),η=0.59",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R202_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(0.0°C),η=0.74",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C101_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C101_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C101_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C201_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C201_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C201_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R102_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R102_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R102_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R202_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R202_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R202_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C102_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C102_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C102_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C202_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C202_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C202_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R101_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R101_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R101_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R201_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R201_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R201_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C101_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 8
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C101_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C101_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C201_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 6
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C201_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C201_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R102_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 1
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R102_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R102_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R202_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 1
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R202_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R202_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C101_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C101_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C101_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C201_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C201_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C201_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R102_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R102_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R102_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R202_25.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R202_25.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R202_25.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C102_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C102_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C102_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C202_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C202_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C202_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R101_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R101_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R101_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R201_50.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R201_50.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R201_50.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C101_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C101_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C101_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C201_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C201_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C201_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R102_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R102_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R102_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R202_100.txt",
+    "Scenario": "06:00/08:00/14:00最低温(-18.1°C),η=0.41",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R202_100.txt",
+    "Scenario": "06:00/08:00/14:00平均温(-13.1°C),η=0.51",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Static",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R202_100.txt",
+    "Scenario": "06:00/08:00/14:00最高温(-3.1°C),η=0.69",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C101_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C101_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C101_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 6
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C201_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C201_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C201_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R102_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R102_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R102_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R202_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R202_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R202_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C102_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C102_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C102_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C202_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C202_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C202_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R101_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R101_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R101_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R201_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R201_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R201_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C101_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C101_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C101_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 9
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C201_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C201_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "C201_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R102_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R102_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R102_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R202_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R202_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Single",
+    "Case": "R202_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C101_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C101_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C101_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C201_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C201_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C201_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R102_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R102_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R102_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R202_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R202_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R202_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C102_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C102_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C102_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C202_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C202_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C202_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R101_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R101_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R101_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R201_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R201_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R201_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C101_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C101_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C101_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C201_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C201_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "C201_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R102_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R102_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R102_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R202_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-15.0°C,η=0.47)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R202_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-10.0°C,η=0.56)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Cos",
+    "Platform": "Multi",
+    "Case": "R202_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(+0.0°C,η=0.74)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C101_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C101_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C101_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C201_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C201_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C201_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R102_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R102_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R102_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R202_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R202_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R202_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C102_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C102_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C102_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C202_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C202_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C202_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R101_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 4
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R101_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R101_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R201_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R201_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R201_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C101_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C101_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C101_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 3
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C201_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 17
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C201_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "C201_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R102_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R102_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R102_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R202_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R202_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Single",
+    "Case": "R202_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C101_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C101_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C101_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C201_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C201_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C201_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R102_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R102_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R102_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R202_25.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R202_25.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R202_25.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C102_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C102_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C102_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C202_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C202_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C202_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R101_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R101_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R101_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R201_50.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R201_50.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R201_50.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C101_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C101_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C101_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C201_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C201_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 11
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "C201_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R102_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R102_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R102_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R202_100.txt",
+    "Scenario": "固定00:00调度/温度参考06:00(-18.0°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R202_100.txt",
+    "Scenario": "固定00:00调度/温度参考08:00(-18.1°C,η=0.41)",
+    "UnservedCount": 0
+  },
+  {
+    "Mode": "Dynamic",
+    "Weather": "Real",
+    "Platform": "Multi",
+    "Case": "R202_100.txt",
+    "Scenario": "固定00:00调度/温度参考14:00(-3.1°C,η=0.69)",
+    "UnservedCount": 0
+  }
+]
